@@ -17,15 +17,16 @@ ES Modules (import/export)
 # Project Structure
 
 src/
-config/connectDB.js
-models/User.model.js
-controllers/auth.controller.js
-middleware/auth.middleware.js
-routes/auth.routes.js
-utils/jwt.js
-app.js
+  config/connectDB.js
+  models/User.model.js
+  controllers/auth.controller.js
+  middleware/auth.middleware.js
+  routes/auth.routes.js
+  utils/jwt.js
+  app.js
 server.js
 .env
+
 
 # Setup
 
